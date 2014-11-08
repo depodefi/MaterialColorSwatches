@@ -86,7 +86,7 @@
     <!-- dark -->
     <color name="md_deep_purple_A200">#7C4DFF</color>
     <color name="md_deep_purple_A400">#651FFF</color>
-    <color name="md_deep_purple_A800">#6200EA</color>
+    <color name="md_deep_purple_A700">#6200EA</color>
 
 
     <!-- INDIGO -->
@@ -109,7 +109,7 @@
     <!-- dark -->
     <color name="md_indigo_A200">#536DFE</color>
     <color name="md_indigo_A400">#3D5AFE</color>
-    <color name="md_indigo_A800">#304FFE</color>
+    <color name="md_indigo_A700">#304FFE</color>
 
 
     <!-- BLUE -->
@@ -132,7 +132,7 @@
     <!-- light -->
     <color name="md_blue_A200">#448AFF</color>
     <color name="md_blue_A400">#2979FF</color>
-    <color name="md_blue_A800">#2962FF</color>
+    <color name="md_blue_A700">#2962FF</color>
 
 
     <!-- LIGHT BLUE -->
@@ -155,7 +155,7 @@
     <color name="md_light_blue_A200">#40C4FF</color>
     <color name="md_light_blue_A400">#00B0FF</color>
     <!-- dark -->
-    <color name="md_light_blue_A800">#0091EA</color>
+    <color name="md_light_blue_A700">#0091EA</color>
 
 
     <!-- CYAN -->
@@ -177,7 +177,7 @@
     <color name="md_cyan_A100">#84FFFF</color>
     <color name="md_cyan_A200">#18FFFF</color>
     <color name="md_cyan_A400">#00E5FF</color>
-    <color name="md_cyan_A800">#00B8D4</color>
+    <color name="md_cyan_A700">#00B8D4</color>
 
 
     <!-- TEAL -->
@@ -199,7 +199,7 @@
     <color name="md_teal_A100">#A7FFEB</color>
     <color name="md_teal_A200">#64FFDA</color>
     <color name="md_teal_A400">#1DE9B6</color>
-    <color name="md_teal_A800">#00BFA5</color>
+    <color name="md_teal_A700">#00BFA5</color>
 
     <!-- GREEN -->
     <!-- dark -->
@@ -220,7 +220,7 @@
     <color name="md_green_A100">#B9F6CA</color>
     <color name="md_green_A200">#69F0AE</color>
     <color name="md_green_A400">#00E676</color>
-    <color name="md_green_A800">#00C853</color>
+    <color name="md_green_A700">#00C853</color>
 
 
     <!-- LIGHT GREEN -->
@@ -242,7 +242,7 @@
     <color name="md_light_green_A100">#CCFF90</color>
     <color name="md_light_green_A200">#B2FF59</color>
     <color name="md_light_green_A400">#76FF03</color>
-    <color name="md_light_green_A800">#64DD17</color>
+    <color name="md_light_green_A700">#64DD17</color>
 
 
     <!-- LIME -->
@@ -263,7 +263,7 @@
     <color name="md_lime_A100">#F4FF81</color>
     <color name="md_lime_A200">#EEFF41</color>
     <color name="md_lime_A400">#C6FF00</color>
-    <color name="md_lime_A800">#AEEA00</color>
+    <color name="md_lime_A700">#AEEA00</color>
 
 
     <!-- YELLOW -->
@@ -282,7 +282,7 @@
     <color name="md_yellow_A100">#FFFF8D</color>
     <color name="md_yellow_A200">#FFFF00</color>
     <color name="md_yellow_A400">#FFEA00</color>
-    <color name="md_yellow_A800">#FFD600</color>
+    <color name="md_yellow_A700">#FFD600</color>
 
 
     <!-- Amber -->
@@ -301,7 +301,7 @@
     <color name="md_amber_A100">#FFE57F</color>
     <color name="md_amber_A200">#FFD740</color>
     <color name="md_amber_A400">#FFC400</color>
-    <color name="md_amber_A800">#FFAB00</color>
+    <color name="md_amber_A700">#FFAB00</color>
 
 
     <!-- ORANGE -->
@@ -319,10 +319,10 @@
     <color name="md_orange_900">#E65100</color>
 
     <!-- light -->
-    <color name="md_orange_A100">#</color>
-    <color name="md_orange_A200">#</color>
-    <color name="md_orange_A400">#</color>
-    <color name="md_orange_A800">#</color>
+    <color name="md_orange_A100">#FFD180</color>
+    <color name="md_orange_A200">#FFAB40</color>
+    <color name="md_orange_A400">#FF9100</color>
+    <color name="md_orange_A700">#FF6D00</color>
 
 
     <!-- DEEP ORANGE-->
@@ -344,7 +344,7 @@
     <color name="md_deep_orange_A200">#FF6E40</color>
     <!-- light -->
     <color name="md_deep_orange_A400">#FF3D00</color>
-    <color name="md_deep_orange_A800">#DD2C00</color>
+    <color name="md_deep_orange_A700">#DD2C00</color>
 
 
     <!-- BROWN -->
